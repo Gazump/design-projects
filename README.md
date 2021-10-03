@@ -2,19 +2,6 @@
 Portfolio of proof-of-concept and prototype passion projects.
 
 ## Relevant Experience:
-* ROBLOX: Taught and delivered introduction courses to secondary school children:
-  * See *Platformer - Beginner Lesson.rbxl(x)* files for Roblox project
-    * Basic platformer/speedrunner with examples of various mechanics
-    * Moving platform
-    * Disappearing platform
-    * Death lava
-    * Target Platform (with tree)
-    * Run time and Best time scoreboards
-  * https://developer.roblox.com/en-us/onboarding?category=studio-basics
-  * https://developer.roblox.com/en-us/onboarding?category=basic-coding
-  * https://developer.roblox.com/en-us/onboarding?category=modeling
-  * https://developer.roblox.com/en-us/onboarding?category=intermediate-coding
-  * https://developer.roblox.com/en-us/onboarding?category=interfaces
 * UNITY: Taught machine learning using Anaconda (python), ML_agents and Unity to A-Level students to completion
   * Link: https://www.immersivelimit.com/tutorials/reinforcement-learning-penguins-part-1-unity-ml-agents
 
